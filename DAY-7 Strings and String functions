@@ -1,0 +1,18 @@
+"""s="codegnan"
+print (s[0])"""
+"""s="codegnan"
+print (s[6:10])"""
+"""s="codegnan"
+print(s[5:8:-1])"""
+"""s="codegnan"
+print (s[0:5])"""
+"""s="codegnan"
+print (s[: :-1])"""
+"""s="codegnan"
+print (s[: :-2])"""
+
+
+
+
+
+       
